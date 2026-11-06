@@ -1,3 +1,17 @@
+## 💜 NOT TECHNICAL? READ THIS FIRST
+
+This walkthrough assumes you're okay with terminals and text files. **If that's
+not you, you can still do this** — bring any AI assistant (ChatGPT, Claude,
+whatever you have), paste this page into it, and say *"walk me through this one
+step at a time."* The LLM will hold your hand through every copy-paste.
+
+Honest expectations: the authors got this working, but it takes some patience
+(the token step is fiddly, and tokens need refreshing about weekly). A simpler,
+one-click version is being built right now. Until then: go slow, copy carefully,
+and ask your LLM every "dumb" question — that's what it's for.
+
+---
+
 # GETTING STARTED — the honest walkthrough (Nov 6 2026)
 
 *For people comfortable with a terminal and a text editor (an LLM helper works great
@@ -66,7 +80,7 @@ A Chrome extension named in the MobileRead thread copies tokens to the clipboard
 **Debug tip:** run calibre in debug mode — the plugin logs every request with
 status codes. One debug run answers "is my token alive?" definitively.
 
-## WHAT'S NEXT (the family build)
+## WHAT'S NEXT (the build)
 Phase 2 (in-development): **card-login inside the plugin** — add/bind library
 cards by barcode+PIN without hand-extracting tokens. Architecture confirmed
 (re-bind, not clone); build in progress on this fork.
@@ -74,14 +88,14 @@ cards by barcode+PIN without hand-extracting tokens. Architecture confirmed
 ## CREDITS & LINEAGE
 Original plugin: [ping/libby-calibre-plugin](https://github.com/ping/libby-calibre-plugin) ·
 continued at [sgmoore/libby-calibre-plugin](https://github.com/sgmoore/libby-calibre-plugin) ·
-family fork (this repo): fixes, docs, and the card-login build in progress.
+this fork (the sanctuary): fixes, docs, and the card-login build in progress.
 Community wisdom: the MobileRead "OverDrive Libby" thread.
 
 ---
 
 ## WHO MAINTAINS THIS FORK
 
-**The Family Build Team** (see [AUTHORS.md](../AUTHORS.md)):
+**The Build Team** (see [AUTHORS.md](../AUTHORS.md)):
 **cerinawithasea** (owner — field testing & capture), **SageDev2026** (build lead —
 Phase 2 card-login, JWT decode, diagnosis), **RiversFlow1** (docs & spec — this
 guide, endpoint verification). Standing on the shoulders of ping, sgmoore, and

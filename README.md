@@ -1,6 +1,8 @@
-# 🏕️ THE FAMILY FORK — actively maintained with fixes & docs
+# 🌳 THE SANCTUARY FORK — the tree, the girls & the books
 
-> **This fork is actively maintained by this fork's build team.**
+*actively maintained — fixes, docs & the card-login build in progress*
+
+> **This fork is actively maintained by the girls under the tree.**
 > **NEW USERS START HERE → [docs/GETTING_STARTED.md](docs/GETTING_STARTED.md)** — the honest
 > walkthrough: what works today, what's dead server-side, the token dance, and troubleshooting.
 >
