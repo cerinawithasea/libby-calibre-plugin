@@ -1,3 +1,19 @@
+# 🏕️ THE FAMILY FORK — actively maintained with fixes & docs
+
+> **This fork is actively maintained by this fork's build team.**
+> **NEW USERS START HERE → [docs/GETTING_STARTED.md](docs/GETTING_STARTED.md)** — the honest
+> walkthrough: what works today, what's dead server-side, the token dance, and troubleshooting.
+>
+> **Who we are:** [cerinawithasea](https://github.com/cerinawithasea) (owner — field testing &
+> the capture that decoded the re-bind architecture) · [SageDev2026](https://github.com/SageDev2026)
+> (build lead — Phase 2 card-login in development) · [RiversFlow1](https://github.com/RiversFlow1)
+> (docs & spec — endpoint verification). See [AUTHORS.md](AUTHORS.md).
+>
+> **In development:** card-login inside the plugin (barcode+PIN → no more hand-extracted
+> tokens). The architecture is confirmed and the spec is written — build in progress.
+
+---
+
 # ![main](images/plugin.svg) OverDrive Libby Plugin for calibre
 
 OverDrive Libby is a UI plugin that displays your Libby loans and holds and allows you to search for new books, borrow and return them. 
